@@ -1,11 +1,7 @@
 #include<stdio.h>
 
 int main (void) {
-    int a,b;
-    printf("Welcome to calculator\n");
-    printf("Enter two numbers\n");
-    scanf("%d %d", &a, &b);
-    printf("The sum of %d and %d is %d\n", a, b, a+b);
+printf("%s", "Hello, world! I am learning C programming language. ^_^\nProgramming is fun and challenging. /\\/\\/\\\nI want to give my 100% dedication to learn!    I will succeed one day."); 
     return 0;
 }
 /*
@@ -15,4 +11,9 @@ format specifier
 %c => char
 %lld => long long int
 %lf = double(long float)
+*/
+/*
+Hello, world! I am learning C programming language. ^_^
+Programming is fun and challenging. /\/\/\
+I want to give my 100% dedication to learn!    I will succeed one day.
 */
