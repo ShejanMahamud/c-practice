@@ -1,1 +1,1 @@
-#C Problem Practice
+C Problem Practice
